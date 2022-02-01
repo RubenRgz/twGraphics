@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Folders
+Intermediate/
+.vs/
+
+# Solution
+twGraphics.sln
+
+# Project files
+twGraphics/twGraphics.vcxproj
+twGraphics/twGraphics.vcxproj.filters
+twGraphics/twGraphics.vcxproj.user
